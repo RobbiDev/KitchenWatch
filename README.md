@@ -12,6 +12,10 @@ Explore the repository to see my work in action, and gain a deeper understanding
 - MongoDB
 
 ## Features
-- Generel Trackers
+- Time Senstive Trackers
+- Custom Trackers
+- Anayltics (w/ Last year comparsions)
+- Activity Log
+- Login/Regsiter
 
  
