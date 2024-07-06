@@ -17,6 +17,7 @@ Explore the repository to see my work in action, and gain a deeper understanding
 - Anayltics (w/ Last year comparsions)
 - Activity Log
 - Login/Signup
+- SMS Messaging Alerts
 
 ## Gallary
 
