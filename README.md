@@ -19,6 +19,8 @@ Explore the repository to see my work in action, and gain a deeper understanding
 - Login/Signup
 - SMS Messaging Alerts
 
+## Pricing
+
 ## Gallary
 
 ## Links 
